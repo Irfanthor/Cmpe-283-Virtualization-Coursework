@@ -1,4 +1,4 @@
-# C++ Virtualization Showcase
+# C++ Virtualization 
 
 This repository includes CMPE 283 coursework and includes a modular hypervisor-style MIPS VM runtime designed to showcase C++ systems engineering and virtualization concepts.
 
